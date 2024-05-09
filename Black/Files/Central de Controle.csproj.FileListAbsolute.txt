@@ -1,0 +1,50 @@
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe.config
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\bin\Debug\Central de Controle.pdb
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csprojResolveAssemblyReference.cache
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Central.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csproj.GenerateResource.Cache
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central de Controle.exe
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central de Controle.pdb
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Aplicacoes.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Calculadora.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IMC.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IPVA.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Numeros.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Palavras.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Monitor_de_Desempenho.resources
+C:\Users\e01desis\Documents\SharpDevelop Projects\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Navegador.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csprojResolveAssemblyReference.cache
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Numeros.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Palavras.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Aplicacoes.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Calculadora.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Gestao_Financeira.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IMC.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IPVA.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Central.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Monitor_de_Desempenho.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Navegador.resources
+C:\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csproj.GenerateResource.Cache
+C:\Central de Controle\Central de Controle\obj\Debug\Central de Controle.exe
+C:\Central de Controle\Central de Controle\obj\Debug\Central de Controle.pdb
+C:\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe.config
+C:\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe
+C:\Central de Controle\Central de Controle\bin\Debug\Central de Controle.pdb
+D:\Dev\C#\Black\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe.config
+D:\Dev\C#\Black\Central de Controle\Central de Controle\bin\Debug\Central de Controle.exe
+D:\Dev\C#\Black\Central de Controle\Central de Controle\bin\Debug\Central de Controle.pdb
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csprojResolveAssemblyReference.cache
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Numeros.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Adivinhacao_de_Palavras.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Aplicacoes.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Calculadora.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Gestao_Financeira.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IMC.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.IPVA.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Central.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Monitor_de_Desempenho.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central_de_Controle.Navegador.resources
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central de Controle.csproj.GenerateResource.Cache
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central de Controle.exe
+D:\Dev\C#\Black\Central de Controle\Central de Controle\obj\Debug\Central de Controle.pdb

@@ -40,7 +40,7 @@ When returning to the main screen we have an option called Web, where by clickin
 
 This was my program, I hope you liked it, I also have it in this galaxy themed version, showing a beautiful landscape of a constellation full of stars.
 
-![Captura de tela 2024-05-23 185857](https://github.com/LeonardoRodrigue/Control-Center/assets/137435258/153b2830-a240-4fdf-8e2d-f268d4caf3ac)
 ![Captura de tela 2024-05-23 185739](https://github.com/LeonardoRodrigue/Control-Center/assets/137435258/0be8665d-596c-4a65-9972-110747d0be4a)
+![Captura de tela 2024-05-23 185857](https://github.com/LeonardoRodrigue/Control-Center/assets/137435258/153b2830-a240-4fdf-8e2d-f268d4caf3ac)
 
 Thank you for your attention!
